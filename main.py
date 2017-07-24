@@ -1,4 +1,4 @@
 import time
 print("help")
-print(time.strftime("%d/%m/%Y"))
+print(time.strftime("%I:%S:%M"))
 time.sleep(10)
